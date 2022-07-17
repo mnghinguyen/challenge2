@@ -60,6 +60,8 @@ nav a:hover{
 main {
     margin: 0px;
 }
+
+/* HERO */
 .hero-image {
     height: 600px;
     width: 100%;
@@ -93,7 +95,7 @@ main {
     cursor: pointer;
   }
   
-  .hero-text button:hover {
-    background-color: #555;
-    color: white;
-  }
+.hero-content button:hover {
+    background-color: var(--offwhite);
+    color: var(--black);
+}
