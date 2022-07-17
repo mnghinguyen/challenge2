@@ -1,5 +1,5 @@
-# challenge2 
-GA Tech Coding Bootcamp July 2022
+# challenge2: Portfolio Site
+GA Tech Coding Bootcamp July 2022 -- Annie Nguyen
 ### Project description:
 My portfolio site built on HTML and CSS.
 
