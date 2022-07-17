@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    flex-wrap: wrap;
+}
+.main-header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 60px;
+    background: #13293d;
+    color: #ffffff;
+}
+nav a {
+    justify-content: flex-end;
+    color: #ffffff
+}
+nav h1 {
+    justify-content: flex-start;
+}
