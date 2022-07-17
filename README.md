@@ -21,3 +21,9 @@ WHEN I click on the images of the applications </br>
 THEN I am taken to that deployed application </br>
 WHEN I resize the page or view the site on various screens and devices </br>
 THEN I am presented with a responsive layout that adapts to my viewport </br>
+
+### Wireframe
+Desktop
+![image](https://user-images.githubusercontent.com/30813052/179421430-038430de-d5b6-45b7-bf18-332aba70bb87.png)
+Mobile
+![image](https://user-images.githubusercontent.com/30813052/179421442-b4ee3976-9fae-41b8-9699-76e049683b19.png)
