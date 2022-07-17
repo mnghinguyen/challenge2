@@ -114,3 +114,16 @@ main {
 #spacing {
     margin-top: 32px;
 }
+
+/* SPOTLIGHTS */
+.spotlights{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 10%;
+}
+.spotlights-content{
+    line-height: 32px;
+}
+.box {
+    
+}
