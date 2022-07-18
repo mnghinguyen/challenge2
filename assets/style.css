@@ -183,22 +183,28 @@ main {
     margin: 32px 7%;
 }
 input[type=text], select, textarea {
-    width: 100%; /* Full width */
-    padding: 12px; /* Some padding */  
-    border: 1px solid #ccc; /* Gray border */
-    border-radius: var(--border-radius); /* Rounded borders */
-    box-sizing: border-box; /* Make sure that padding and width stays in place */
-    margin-top: 6px; /* Add a top margin */
-    margin-bottom: 16px; /* Bottom margin */
-    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+    width: 100%;
+    padding: 12px;
+    border: 1px solid var(--grey);
+    border-radius: var(--border-radius);
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
 }
 input[type=submit] {
-    background-color: #04AA6D;
-    color: white;
-    padding: 12px 20px;
     border: none;
-    border-radius: 4px;
+    outline: 0;
+    display: inline-block;
+    padding: 12px 32px;
+    margin: 32px 0 32px 0;
+    color: var(--white);
+    background-color: var(--pink);
+    border-radius: var(--border-radius);
+    text-transform: uppercase;
+    text-align: center;
     cursor: pointer;
+    font-size: small;
+    font-weight: 600;
   }
   
 /* FOOTER */
