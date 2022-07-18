@@ -7,7 +7,7 @@
     --pink: #fa6980;
     --grey:#a7a7a7;
     --border-radius: 4px;
-  }
+}
 
 /* BODY */
 body, html {
@@ -162,6 +162,16 @@ main {
 .box-content {
     line-height: 32px;
     margin: 12px 32px;
+}
+.minute {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    color: var(--grey);
+}
+.minute-flex {
+    margin-right: 12px;
 }
 
 /* FOOTER */
